@@ -9,16 +9,27 @@ assignees: ''
 Thanks for taking the time to fill out this addition request!
 
 ### Required fields
-Please provide a unique ID for the required resource:
+---
+name: Addition request
+about: Request for a new entry to the vocabulary.
+title: "[Addition request]: "
+labels: ["feature"]
+assignees: ''
+---
 
-`<Add your unique ID here>`  
-_Example: `MY_NEW_RESOURCE`_
+Thanks for taking the time to fill out this addition request!
+
+### Required fields
+
+#### Indicator
+- type: (select one)
+    - [ ] Exposure marker
+    - [ ] Effect marker
+    - [ ] General property
+- preferred unit:
 
 ### Existence Check
-- [ ] I have checked that this new resource is not yet part of the vocabulary.
-
-### Uniqueness Check
-- [ ] I have checked that the unique identifier of this resource is indeed unique.
+- [ ] I have checked that this Indicator is not yet part of the vocabulary.
 
 ---
 
