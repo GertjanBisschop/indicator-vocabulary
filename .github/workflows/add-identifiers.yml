@@ -5,8 +5,13 @@ permissions:
 
 on:
     pull_request:
+      paths:
+      - '.github/workflows/add-identifiers.yml'
+      - 'data/data.yaml'
     push:
         branches: [main]
+        paths:
+        - 'data/data.yaml'
 
 jobs:
     generate-ids:
@@ -77,8 +82,9 @@ jobs:
       with:
         ref: ${{ github.ref }}
         namespace: https://w3id.org/peh/terms/
-        namespace_label: pehterms
         linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
         artefact_name: data-with-id.yaml
+        voc_uri: https://w3id.org/peh/indicators
+        entity_name: Indicator
       secrets:
-            token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
