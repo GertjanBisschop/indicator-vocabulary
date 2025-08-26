@@ -13200,7 +13200,7 @@ indicators:
     translated_value: Bi
 - id: https://w3id.org/peh/IN-667c81faab
   unique_name: mass concentration of bpa in urine
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -13248,7 +13248,7 @@ indicators:
     translated_value: BPA vrij
 - id: https://w3id.org/peh/IN-862a71ab3a
   unique_name: mass concentration of bpaf in urine
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -13296,7 +13296,7 @@ indicators:
     translated_value: BPAF vrij
 - id: https://w3id.org/peh/IN-e98ba1fa3d
   unique_name: mass concentration of bpb in urine
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -13344,7 +13344,7 @@ indicators:
     translated_value: BPB vrij
 - id: https://w3id.org/peh/IN-9208ad8163
   unique_name: mass concentration of bpc in urine
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -13392,7 +13392,7 @@ indicators:
     translated_value: BPC vrij
 - id: https://w3id.org/peh/IN-d27991e6bc
   unique_name: mass concentration of bpf in urine
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -13440,7 +13440,7 @@ indicators:
     translated_value: BPF vrij
 - id: https://w3id.org/peh/IN-6925eccaae
   unique_name: mass concentration of bps in urine
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -13488,7 +13488,7 @@ indicators:
     translated_value: BPS vrij
 - id: https://w3id.org/peh/IN-acc23e4954
   unique_name: mass concentration of bpz in urine
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -111915,7 +111915,7 @@ indicators:
     translated_value: Bi
 - id: https://w3id.org/peh/IN-e8a66cd914
   unique_name: mass concentration of bpa in blood
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -111939,7 +111939,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-3603c6e761
   unique_name: mass concentration of bpa in breast milk
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -111963,7 +111963,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-980c81aa75
   unique_name: mass ratio of bpa in nail
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -111987,7 +111987,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-d0ec06202c
   unique_name: mass concentration of bpa in amniotic fluid
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112011,7 +112011,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-4d4905cad9
   unique_name: mass concentration of bpa in cord blood
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112035,7 +112035,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-ea9ecd9ede
   unique_name: mass concentration of bpa in saliva/sputum
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112059,7 +112059,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-bb185e5e23
   unique_name: mass ratio of bpa in hair
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112083,7 +112083,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-6657e0470d
   unique_name: mass ratio of bpa in placenta tissue
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112107,7 +112107,7 @@ indicators:
     translated_value: BPA totaal
 - id: https://w3id.org/peh/IN-7b76a8f91f
   unique_name: mass concentration of bpa in bloodcells
-  name: Bisphenol A total (free+ conjugated)
+  name: Bisphenol A total (free + conjugated)
   ui_label: BPA total
   indicator_type: exposuremarker
   short_name: bpa
@@ -112347,7 +112347,7 @@ indicators:
     translated_value: BPA vrij
 - id: https://w3id.org/peh/IN-e474798e01
   unique_name: mass concentration of bpaf in blood
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112371,7 +112371,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-9ee3b38aed
   unique_name: mass concentration of bpaf in breast milk
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112395,7 +112395,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-911917194c
   unique_name: mass ratio of bpaf in nail
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112419,7 +112419,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-7b8552e3fb
   unique_name: mass concentration of bpaf in amniotic fluid
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112443,7 +112443,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-310194e964
   unique_name: mass concentration of bpaf in cord blood
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112467,7 +112467,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-afc120354e
   unique_name: mass concentration of bpaf in saliva/sputum
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112491,7 +112491,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-d4ebe48ca1
   unique_name: mass ratio of bpaf in hair
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112515,7 +112515,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-58f5f880bb
   unique_name: mass ratio of bpaf in placenta tissue
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112539,7 +112539,7 @@ indicators:
     translated_value: BPAF totaal
 - id: https://w3id.org/peh/IN-933688ea53
   unique_name: mass concentration of bpaf in bloodcells
-  name: Bisphenol AF total (free+ conjugated)
+  name: Bisphenol AF total (free + conjugated)
   ui_label: BPAF total
   indicator_type: exposuremarker
   short_name: bpaf
@@ -112779,7 +112779,7 @@ indicators:
     translated_value: BPAF vrij
 - id: https://w3id.org/peh/IN-918e6a91d6
   unique_name: mass concentration of bpb in blood
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112803,7 +112803,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-44eae8b914
   unique_name: mass concentration of bpb in breast milk
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112827,7 +112827,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-3004c62955
   unique_name: mass ratio of bpb in nail
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112851,7 +112851,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-2263da74b0
   unique_name: mass concentration of bpb in amniotic fluid
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112875,7 +112875,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-3434197828
   unique_name: mass concentration of bpb in cord blood
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112899,7 +112899,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-7601106860
   unique_name: mass concentration of bpb in saliva/sputum
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112923,7 +112923,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-25008ba406
   unique_name: mass ratio of bpb in hair
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112947,7 +112947,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-bc9d64aff7
   unique_name: mass ratio of bpb in placenta tissue
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -112971,7 +112971,7 @@ indicators:
     translated_value: BPB totaal
 - id: https://w3id.org/peh/IN-e603a0b12f
   unique_name: mass concentration of bpb in bloodcells
-  name: Bisphenol B total (free+ conjugated)
+  name: Bisphenol B total (free + conjugated)
   ui_label: BPB total
   indicator_type: exposuremarker
   short_name: bpb
@@ -113211,7 +113211,7 @@ indicators:
     translated_value: BPB vrij
 - id: https://w3id.org/peh/IN-67ebb2af5d
   unique_name: mass concentration of bpc in blood
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113235,7 +113235,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-84e63ba210
   unique_name: mass concentration of bpc in breast milk
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113259,7 +113259,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-da8a01a578
   unique_name: mass ratio of bpc in nail
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113283,7 +113283,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-3ff2ee2dd8
   unique_name: mass concentration of bpc in amniotic fluid
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113307,7 +113307,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-0992c59f18
   unique_name: mass concentration of bpc in cord blood
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113331,7 +113331,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-516b35f376
   unique_name: mass concentration of bpc in saliva/sputum
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113355,7 +113355,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-b21889171d
   unique_name: mass ratio of bpc in hair
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113379,7 +113379,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-fdff16b119
   unique_name: mass ratio of bpc in placenta tissue
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113403,7 +113403,7 @@ indicators:
     translated_value: BPC totaal
 - id: https://w3id.org/peh/IN-cfb500987c
   unique_name: mass concentration of bpc in bloodcells
-  name: Bisphenol C total (free+ conjugated)
+  name: Bisphenol C total (free + conjugated)
   ui_label: BPC total
   indicator_type: exposuremarker
   short_name: bpc
@@ -113643,7 +113643,7 @@ indicators:
     translated_value: BPC vrij
 - id: https://w3id.org/peh/IN-5b29c7fd80
   unique_name: mass concentration of bpf in blood
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113667,7 +113667,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-8d20cbfff2
   unique_name: mass concentration of bpf in breast milk
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113691,7 +113691,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-40a765fd1b
   unique_name: mass ratio of bpf in nail
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113715,7 +113715,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-8055b1e240
   unique_name: mass concentration of bpf in amniotic fluid
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113739,7 +113739,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-4e8af13d48
   unique_name: mass concentration of bpf in cord blood
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113763,7 +113763,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-19af93a0d5
   unique_name: mass concentration of bpf in saliva/sputum
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113787,7 +113787,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-5162b98cbb
   unique_name: mass ratio of bpf in hair
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113811,7 +113811,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-c5cb6ce104
   unique_name: mass ratio of bpf in placenta tissue
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -113835,7 +113835,7 @@ indicators:
     translated_value: BPF totaal
 - id: https://w3id.org/peh/IN-41c67f7d32
   unique_name: mass concentration of bpf in bloodcells
-  name: Bisphenol F total (free+ conjugated)
+  name: Bisphenol F total (free + conjugated)
   ui_label: BPF total
   indicator_type: exposuremarker
   short_name: bpf
@@ -114075,7 +114075,7 @@ indicators:
     translated_value: BPF vrij
 - id: https://w3id.org/peh/IN-ab5a1d0fd9
   unique_name: mass concentration of bps in blood
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114099,7 +114099,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-06727b1e27
   unique_name: mass concentration of bps in breast milk
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114123,7 +114123,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-ee7d4ae8a0
   unique_name: mass ratio of bps in nail
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114147,7 +114147,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-d9174e88dc
   unique_name: mass concentration of bps in amniotic fluid
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114171,7 +114171,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-2c7aca8735
   unique_name: mass concentration of bps in cord blood
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114195,7 +114195,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-efe5d84958
   unique_name: mass concentration of bps in saliva/sputum
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114219,7 +114219,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-b020d40af9
   unique_name: mass ratio of bps in hair
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114243,7 +114243,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-11e2fb79ff
   unique_name: mass ratio of bps in placenta tissue
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114267,7 +114267,7 @@ indicators:
     translated_value: BPS totaal
 - id: https://w3id.org/peh/IN-e4791f0442
   unique_name: mass concentration of bps in bloodcells
-  name: Bisphenol S total (free+ conjugated)
+  name: Bisphenol S total (free + conjugated)
   ui_label: BPS total
   indicator_type: exposuremarker
   short_name: bps
@@ -114507,7 +114507,7 @@ indicators:
     translated_value: BPS vrij
 - id: https://w3id.org/peh/IN-de07a813f7
   unique_name: mass concentration of bpz in blood
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114531,7 +114531,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-008ac7be12
   unique_name: mass concentration of bpz in breast milk
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114555,7 +114555,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-5b36144de5
   unique_name: mass ratio of bpz in nail
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114579,7 +114579,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-dc194b9974
   unique_name: mass concentration of bpz in amniotic fluid
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114603,7 +114603,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-3655c2614a
   unique_name: mass concentration of bpz in cord blood
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114627,7 +114627,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-2529f3ba77
   unique_name: mass concentration of bpz in saliva/sputum
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114651,7 +114651,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-d109735847
   unique_name: mass ratio of bpz in hair
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114675,7 +114675,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-5ddb954130
   unique_name: mass ratio of bpz in placenta tissue
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
@@ -114699,7 +114699,7 @@ indicators:
     translated_value: BPZ totaal
 - id: https://w3id.org/peh/IN-404efd7288
   unique_name: mass concentration of bpz in bloodcells
-  name: Bisphenol Z total (free+ conjugated)
+  name: Bisphenol Z total (free + conjugated)
   ui_label: BPZ total
   indicator_type: exposuremarker
   short_name: bpz
