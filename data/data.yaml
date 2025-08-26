@@ -3320,6 +3320,9 @@ indicators:
   relevant_observable_entity_types:
   - person
   - sample
+  biochementity_links:
+  - biochementity_linktype: exact_match
+    biochementity: https://w3id.org/peh/BE-f85b7b3771
   translations:
   - property_name: name
     language: nl-be
@@ -3341,6 +3344,9 @@ indicators:
   relevant_observable_entity_types:
   - person
   - sample
+  biochementity_links:
+  - biochementity_linktype: exact_match
+    biochementity: https://w3id.org/peh/BE-f85b7b3771
   translations:
   - property_name: name
     language: nl-be
