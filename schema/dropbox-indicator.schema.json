@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://w3id.org/peh/indicator-vocabulary/schema/dropbox-indicator.schema.json",
+  "title": "Indicator dropbox file",
+  "description": "Contract for a dropbox/*.yaml file proposing one or more indicator subclasses. Each entry maps to a LinkML IndicatorSubClass.",
+  "type": "object",
+  "required": ["indicator_subclasses"],
+  "additionalProperties": false,
+  "properties": {
+    "suggester": {
+      "$ref": "#/$defs/orcid",
+      "description": "File-level default suggester (ORCID). Applied to every entry that does not set its own suggester."
+    },
+    "indicator_subclasses": {
+      "type": "array",
+      "description": "The list of proposed indicator subclasses.",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/indicatorSubClass" }
+    }
+  },
+  "$defs": {
+    "orcid": {
+      "type": "string",
+      "description": "Canonical ORCID URL, e.g. https://orcid.org/0000-0002-1825-0097.",
+      "pattern": "^https://orcid\\.org/[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]$"
+    },
+    "contextAlias": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["property_name", "alias"],
+      "properties": {
+        "property_name": { "type": "string" },
+        "context": { "type": "string" },
+        "alias": { "type": "string" }
+      }
+    },
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["property_name", "language", "translated_value"],
+      "properties": {
+        "property_name": { "type": "string" },
+        "language": { "type": "string" },
+        "translated_value": { "type": "string" }
+      }
+    },
+    "biochementityLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["biochementity"],
+      "properties": {
+        "biochementity_linktype": { "type": "string" },
+        "biochementity": { "type": "string" }
+      }
+    },
+    "iadoptConstraint": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "constrains"],
+      "properties": {
+        "constraint_id": {
+          "type": "string",
+          "description": "Optional URI or CURIE for the constraint. Omit for the usual blank-node constraint."
+        },
+        "name": {
+          "type": "string",
+          "description": "Human-readable constraint label, serialized as rdfs:label."
+        },
+        "description": {
+          "type": "string",
+          "description": "Optional longer description of the constraint."
+        },
+        "constrains": {
+          "type": "string",
+          "description": "URI or CURIE of the entity constrained by this I-ADOPT constraint."
+        }
+      }
+    },
+    "indicatorSubClass": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "id": { "type": "string" },
+        "unique_name": { "type": "string" },
+        "name": { "type": "string" },
+        "short_name": { "type": "string" },
+        "ui_label": { "type": "string" },
+        "description": { "type": "string" },
+        "remark": { "type": "string" },
+        "exact_matches": { "type": "array", "items": { "type": "string" } },
+        "aliases": { "type": "array", "items": { "type": "string" } },
+        "context_aliases": { "type": "array", "items": { "$ref": "#/$defs/contextAlias" } },
+        "translations": { "type": "array", "items": { "$ref": "#/$defs/translation" } },
+        "indicator_type": { "type": "string" },
+        "property": { "type": "string" },
+        "quantity_kind": { "type": "string" },
+        "matrix": { "type": "string" },
+        "constraints": { "type": "array", "items": { "$ref": "#/$defs/iadoptConstraint" } },
+        "grouping_id_list": { "type": "array", "items": { "type": "string" } },
+        "relevant_observable_entity_types": { "type": "array", "items": { "type": "string" } },
+        "biochementity": { "type": "string" },
+        "biochementity_links": { "type": "array", "items": { "$ref": "#/$defs/biochementityLink" } },
+        "parent_indicators": { "type": "array", "items": { "type": "string" } },
+        "suggester": {
+          "$ref": "#/$defs/orcid",
+          "description": "Per-entry suggester (ORCID). Overrides any file-level default."
+        }
+      }
+    }
+  }
+}

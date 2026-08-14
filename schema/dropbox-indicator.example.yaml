@@ -1,0 +1,24 @@
+# Example indicator dropbox file.
+# Validates against schema/dropbox-indicator.schema.json.
+# Copy a trimmed-down version of this into dropbox/ and open a PR.
+
+suggester: https://orcid.org/0000-0002-1825-0097
+
+indicator_subclasses:
+  - name: "Bloodgroup"
+    ui_label: "Bloodgroup"
+    indicator_type: observation
+    short_name: bloodtype
+    property: observation
+    parent_indicators:
+      - https://w3id.org/peh/terms/Indicator
+    constraints:
+      - constraint_id: https://example.org/constraint/human-subjects
+        name: "in human subjects"
+        constrains: https://w3id.org/peh/terms/Person
+      - name: "at baseline"
+        constrains: https://w3id.org/peh/terms/Study
+    translations:
+      - property_name: name
+        language: nl-be
+        translated_value: Bloedgroep
