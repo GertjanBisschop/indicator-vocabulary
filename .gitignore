@@ -122,8 +122,18 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Output folders
-*_output*/
+# build artifacts (combined YAML, ontology, extracted site assertions)
+build/
+
+# virtual environments
+.venv/
+venv/
+
+# Bot signing identity (private key) - never commit.
+bot-identity/
 
 # temp
 _temp/
+
+# uv
+uv.lock

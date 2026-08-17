@@ -1,0 +1,14 @@
+[project]
+name = "indicator-vocabulary"
+version = "0.0.1"
+description = "Dropbox-to-nanopublication workflow for PEH indicators"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pubmate",
+    "python-ulid==3.1.0",
+    "linkml",
+]
+
+[tool.uv.sources]
+pubmate = { git = "https://github.com/eu-parc/pubmate.git", tag = "v0.2.2" }
