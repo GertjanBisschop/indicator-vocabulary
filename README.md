@@ -56,9 +56,9 @@ allows CURIEs.
 | `context_aliases` | No | List of objects | Context-specific aliases. See `context_aliases` below. |
 | `translations` | No | List of objects | Translations of labels or other text fields. Name translations are serialized as language-tagged preferred labels. See `translations` below. |
 | `quantity_kind` | No | ID string | QUDT quantity kind or another property identifier. When present, this becomes `iadopt:hasProperty` and is typed as `iadopt:Property`. |
-| `matrix` | No | ID string | Matrix or environmental/biological medium identifier. When present, this becomes `iadopt:hasMatrix`. |
+| `matrix` | No | ID string | Matrix or environmental/biological medium identifier. When present, this becomes `iadopt:hasMatrix` and is typed as `iadopt:Entity`. |
 | `constraints` | No | List of objects | I-ADOPT constraints that qualify the variable. See `constraints` below. |
-| `biochementity` | No | ID string | Object of interest identifier. When present, this becomes `iadopt:hasObjectOfInterest`. |
+| `biochementity` | No | ID string | Object of interest identifier. When present, this becomes `iadopt:hasObjectOfInterest` and is typed as `iadopt:Entity`. |
 | `parent_indicators` | No | List of ID strings | Broader indicator classes, commonly including `https://w3id.org/peh/terms/Indicator`. |
 | `suggester` | No | ORCID URL string | Per-indicator ORCID of the proposer. Overrides the file-level `suggester`. |
 

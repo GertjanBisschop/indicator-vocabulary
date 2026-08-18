@@ -4,11 +4,13 @@ on:
   pull_request:
     paths:
       - ".github/workflows/publish.yaml"
+      - "_scripts/**"
       - "dropbox/**"
       - "schema/dropbox-indicator.example.yaml"
       - "schema/dropbox-indicator.schema.json"
       - "Makefile"
       - "pyproject.toml"
+      - "tests/**"
   push:
     branches: [main]
     paths:
@@ -63,6 +65,9 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+
+      - name: Run tests
+        run: uv run pytest
 
       - name: Seed example proposal when no dropbox files changed
         if: ${{ env.MODE != 'production' }}
