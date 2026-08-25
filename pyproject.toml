@@ -15,7 +15,7 @@ dev = [
 ]
 
 [tool.uv.sources]
-pubmate = { git = "https://github.com/eu-parc/pubmate.git", tag = "v0.2.4" }
+pubmate = { git = "https://github.com/eu-parc/pubmate.git", tag = "v0.2.5" }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
